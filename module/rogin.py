@@ -4,9 +4,9 @@ from selenium.webdriver.common.by import By
 
 def rogin(driver):
     # ===========로그인정보, 검색할것=========
-    ID = 'yw5253k@gmail.com'
-    PW = 'kyw5618@'
-    SH = '#셀카'
+    ID = '--
+    PW = '--'
+    SH = '--'
 
     # ===========주소입력=========
     url = 'https://www.instagram.com/'
